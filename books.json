@@ -1,0 +1,530 @@
+[
+  {
+    "book_code": "GEN",
+    "book": "创世记",
+    "book_en": "Genesis",
+    "testament": "OT",
+    "chapters": 50,
+    "verses": 1533
+  },
+  {
+    "book_code": "EXO",
+    "book": "出埃及记",
+    "book_en": "Exodus",
+    "testament": "OT",
+    "chapters": 40,
+    "verses": 1213
+  },
+  {
+    "book_code": "LEV",
+    "book": "利未记",
+    "book_en": "Leviticus",
+    "testament": "OT",
+    "chapters": 27,
+    "verses": 859
+  },
+  {
+    "book_code": "NUM",
+    "book": "民数记",
+    "book_en": "Numbers",
+    "testament": "OT",
+    "chapters": 36,
+    "verses": 1288
+  },
+  {
+    "book_code": "DEU",
+    "book": "申命记",
+    "book_en": "Deuteronomy",
+    "testament": "OT",
+    "chapters": 34,
+    "verses": 959
+  },
+  {
+    "book_code": "JOS",
+    "book": "约书亚记",
+    "book_en": "Joshua",
+    "testament": "OT",
+    "chapters": 24,
+    "verses": 658
+  },
+  {
+    "book_code": "JDG",
+    "book": "士师记",
+    "book_en": "Judges",
+    "testament": "OT",
+    "chapters": 21,
+    "verses": 618
+  },
+  {
+    "book_code": "RUT",
+    "book": "路得记",
+    "book_en": "Ruth",
+    "testament": "OT",
+    "chapters": 4,
+    "verses": 85
+  },
+  {
+    "book_code": "1SA",
+    "book": "撒母耳记上",
+    "book_en": "1 Samuel",
+    "testament": "OT",
+    "chapters": 31,
+    "verses": 810
+  },
+  {
+    "book_code": "2SA",
+    "book": "撒母耳记下",
+    "book_en": "2 Samuel",
+    "testament": "OT",
+    "chapters": 24,
+    "verses": 695
+  },
+  {
+    "book_code": "1KI",
+    "book": "列王纪上",
+    "book_en": "1 Kings",
+    "testament": "OT",
+    "chapters": 22,
+    "verses": 816
+  },
+  {
+    "book_code": "2KI",
+    "book": "列王纪下",
+    "book_en": "2 Kings",
+    "testament": "OT",
+    "chapters": 25,
+    "verses": 719
+  },
+  {
+    "book_code": "1CH",
+    "book": "历代志上",
+    "book_en": "1 Chronicles",
+    "testament": "OT",
+    "chapters": 29,
+    "verses": 942
+  },
+  {
+    "book_code": "2CH",
+    "book": "历代志下",
+    "book_en": "2 Chronicles",
+    "testament": "OT",
+    "chapters": 36,
+    "verses": 822
+  },
+  {
+    "book_code": "EZR",
+    "book": "以斯拉记",
+    "book_en": "Ezra",
+    "testament": "OT",
+    "chapters": 10,
+    "verses": 280
+  },
+  {
+    "book_code": "NEH",
+    "book": "尼希米记",
+    "book_en": "Nehemiah",
+    "testament": "OT",
+    "chapters": 13,
+    "verses": 406
+  },
+  {
+    "book_code": "EST",
+    "book": "以斯帖记",
+    "book_en": "Esther",
+    "testament": "OT",
+    "chapters": 10,
+    "verses": 167
+  },
+  {
+    "book_code": "JOB",
+    "book": "约伯记",
+    "book_en": "Job",
+    "testament": "OT",
+    "chapters": 42,
+    "verses": 1070
+  },
+  {
+    "book_code": "PSA",
+    "book": "诗篇",
+    "book_en": "Psalms",
+    "testament": "OT",
+    "chapters": 150,
+    "verses": 2461
+  },
+  {
+    "book_code": "PRO",
+    "book": "箴言",
+    "book_en": "Proverbs",
+    "testament": "OT",
+    "chapters": 31,
+    "verses": 915
+  },
+  {
+    "book_code": "ECC",
+    "book": "传道书",
+    "book_en": "Ecclesiastes",
+    "testament": "OT",
+    "chapters": 12,
+    "verses": 222
+  },
+  {
+    "book_code": "SNG",
+    "book": "雅歌",
+    "book_en": "Song of Solomon",
+    "testament": "OT",
+    "chapters": 8,
+    "verses": 117
+  },
+  {
+    "book_code": "ISA",
+    "book": "以赛亚书",
+    "book_en": "Isaiah",
+    "testament": "OT",
+    "chapters": 66,
+    "verses": 1292
+  },
+  {
+    "book_code": "JER",
+    "book": "耶利米书",
+    "book_en": "Jeremiah",
+    "testament": "OT",
+    "chapters": 52,
+    "verses": 1364
+  },
+  {
+    "book_code": "LAM",
+    "book": "耶利米哀歌",
+    "book_en": "Lamentations",
+    "testament": "OT",
+    "chapters": 5,
+    "verses": 154
+  },
+  {
+    "book_code": "EZK",
+    "book": "以西结书",
+    "book_en": "Ezekiel",
+    "testament": "OT",
+    "chapters": 48,
+    "verses": 1273
+  },
+  {
+    "book_code": "DAN",
+    "book": "但以理书",
+    "book_en": "Daniel",
+    "testament": "OT",
+    "chapters": 12,
+    "verses": 357
+  },
+  {
+    "book_code": "HOS",
+    "book": "何西阿书",
+    "book_en": "Hosea",
+    "testament": "OT",
+    "chapters": 14,
+    "verses": 197
+  },
+  {
+    "book_code": "JOL",
+    "book": "约珥书",
+    "book_en": "Joel",
+    "testament": "OT",
+    "chapters": 3,
+    "verses": 73
+  },
+  {
+    "book_code": "AMO",
+    "book": "阿摩司书",
+    "book_en": "Amos",
+    "testament": "OT",
+    "chapters": 9,
+    "verses": 146
+  },
+  {
+    "book_code": "OBA",
+    "book": "俄巴底亚书",
+    "book_en": "Obadiah",
+    "testament": "OT",
+    "chapters": 1,
+    "verses": 21
+  },
+  {
+    "book_code": "JON",
+    "book": "约拿书",
+    "book_en": "Jonah",
+    "testament": "OT",
+    "chapters": 4,
+    "verses": 48
+  },
+  {
+    "book_code": "MIC",
+    "book": "弥迦书",
+    "book_en": "Micah",
+    "testament": "OT",
+    "chapters": 7,
+    "verses": 105
+  },
+  {
+    "book_code": "NAM",
+    "book": "那鸿书",
+    "book_en": "Nahum",
+    "testament": "OT",
+    "chapters": 3,
+    "verses": 47
+  },
+  {
+    "book_code": "HAB",
+    "book": "哈巴谷书",
+    "book_en": "Habakkuk",
+    "testament": "OT",
+    "chapters": 3,
+    "verses": 56
+  },
+  {
+    "book_code": "ZEP",
+    "book": "西番雅书",
+    "book_en": "Zephaniah",
+    "testament": "OT",
+    "chapters": 3,
+    "verses": 53
+  },
+  {
+    "book_code": "HAG",
+    "book": "哈该书",
+    "book_en": "Haggai",
+    "testament": "OT",
+    "chapters": 2,
+    "verses": 38
+  },
+  {
+    "book_code": "ZEC",
+    "book": "撒迦利亚书",
+    "book_en": "Zechariah",
+    "testament": "OT",
+    "chapters": 14,
+    "verses": 211
+  },
+  {
+    "book_code": "MAL",
+    "book": "玛拉基书",
+    "book_en": "Malachi",
+    "testament": "OT",
+    "chapters": 4,
+    "verses": 55
+  },
+  {
+    "book_code": "MAT",
+    "book": "马太福音",
+    "book_en": "Matthew",
+    "testament": "NT",
+    "chapters": 28,
+    "verses": 1071
+  },
+  {
+    "book_code": "MAR",
+    "book": "马可福音",
+    "book_en": "Mark",
+    "testament": "NT",
+    "chapters": 16,
+    "verses": 678
+  },
+  {
+    "book_code": "LUK",
+    "book": "路加福音",
+    "book_en": "Luke",
+    "testament": "NT",
+    "chapters": 24,
+    "verses": 1151
+  },
+  {
+    "book_code": "JHN",
+    "book": "约翰福音",
+    "book_en": "John",
+    "testament": "NT",
+    "chapters": 21,
+    "verses": 879
+  },
+  {
+    "book_code": "ACT",
+    "book": "使徒行传",
+    "book_en": "Acts",
+    "testament": "NT",
+    "chapters": 28,
+    "verses": 1007
+  },
+  {
+    "book_code": "ROM",
+    "book": "罗马书",
+    "book_en": "Romans",
+    "testament": "NT",
+    "chapters": 16,
+    "verses": 433
+  },
+  {
+    "book_code": "1CO",
+    "book": "哥林多前书",
+    "book_en": "1 Corinthians",
+    "testament": "NT",
+    "chapters": 16,
+    "verses": 437
+  },
+  {
+    "book_code": "2CO",
+    "book": "哥林多后书",
+    "book_en": "2 Corinthians",
+    "testament": "NT",
+    "chapters": 13,
+    "verses": 257
+  },
+  {
+    "book_code": "GAL",
+    "book": "加拉太书",
+    "book_en": "Galatians",
+    "testament": "NT",
+    "chapters": 6,
+    "verses": 149
+  },
+  {
+    "book_code": "EPH",
+    "book": "以弗所书",
+    "book_en": "Ephesians",
+    "testament": "NT",
+    "chapters": 6,
+    "verses": 155
+  },
+  {
+    "book_code": "PHP",
+    "book": "腓立比书",
+    "book_en": "Philippians",
+    "testament": "NT",
+    "chapters": 4,
+    "verses": 104
+  },
+  {
+    "book_code": "COL",
+    "book": "歌罗西书",
+    "book_en": "Colossians",
+    "testament": "NT",
+    "chapters": 4,
+    "verses": 95
+  },
+  {
+    "book_code": "1TH",
+    "book": "帖撒罗尼迦前书",
+    "book_en": "1 Thessalonians",
+    "testament": "NT",
+    "chapters": 5,
+    "verses": 89
+  },
+  {
+    "book_code": "2TH",
+    "book": "帖撒罗尼迦后书",
+    "book_en": "2 Thessalonians",
+    "testament": "NT",
+    "chapters": 3,
+    "verses": 47
+  },
+  {
+    "book_code": "1TI",
+    "book": "提摩太前书",
+    "book_en": "1 Timothy",
+    "testament": "NT",
+    "chapters": 6,
+    "verses": 113
+  },
+  {
+    "book_code": "2TI",
+    "book": "提摩太后书",
+    "book_en": "2 Timothy",
+    "testament": "NT",
+    "chapters": 4,
+    "verses": 83
+  },
+  {
+    "book_code": "TIT",
+    "book": "提多书",
+    "book_en": "Titus",
+    "testament": "NT",
+    "chapters": 3,
+    "verses": 46
+  },
+  {
+    "book_code": "PHM",
+    "book": "腓利门书",
+    "book_en": "Philemon",
+    "testament": "NT",
+    "chapters": 1,
+    "verses": 25
+  },
+  {
+    "book_code": "HEB",
+    "book": "希伯来书",
+    "book_en": "Hebrews",
+    "testament": "NT",
+    "chapters": 13,
+    "verses": 303
+  },
+  {
+    "book_code": "JAS",
+    "book": "雅各书",
+    "book_en": "James",
+    "testament": "NT",
+    "chapters": 5,
+    "verses": 108
+  },
+  {
+    "book_code": "1PE",
+    "book": "彼得前书",
+    "book_en": "1 Peter",
+    "testament": "NT",
+    "chapters": 5,
+    "verses": 105
+  },
+  {
+    "book_code": "2PE",
+    "book": "彼得后书",
+    "book_en": "2 Peter",
+    "testament": "NT",
+    "chapters": 3,
+    "verses": 61
+  },
+  {
+    "book_code": "1JN",
+    "book": "约翰一书",
+    "book_en": "1 John",
+    "testament": "NT",
+    "chapters": 5,
+    "verses": 105
+  },
+  {
+    "book_code": "2JN",
+    "book": "约翰二书",
+    "book_en": "2 John",
+    "testament": "NT",
+    "chapters": 1,
+    "verses": 13
+  },
+  {
+    "book_code": "3JN",
+    "book": "约翰三书",
+    "book_en": "3 John",
+    "testament": "NT",
+    "chapters": 1,
+    "verses": 15
+  },
+  {
+    "book_code": "JUD",
+    "book": "犹大书",
+    "book_en": "Jude",
+    "testament": "NT",
+    "chapters": 1,
+    "verses": 25
+  },
+  {
+    "book_code": "REV",
+    "book": "启示录",
+    "book_en": "Revelation",
+    "testament": "NT",
+    "chapters": 22,
+    "verses": 404
+  }
+]

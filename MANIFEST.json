@@ -1,0 +1,685 @@
+{
+  "dataset": "bible-cuv-dataset",
+  "version": "1.0.0",
+  "status": "pre-release (pending approval)",
+  "base_text": "1919 年和合本译文（圣经公会电子本字形）",
+  "base_text_note": "非 1919 印本原貌、非新标点本；偏离清单见 DEVIATIONS.md",
+  "source_lock": {
+    "repo": "xuan9/ChineseBibleSearchJS",
+    "commit": "1034aee964b8b7604a1daba6aafbd1c25cdac815",
+    "bibleText.js_sha256": "81f3cd19320888beb5742ebb5509c4d4d39cba64c2ab6c52eeb8de48fc682a6f",
+    "dump_txt_sha256": "f71f8d20507d63b7d159023f28bbd73b85d698d6c216d30d11f67dfa6de26219",
+    "verses": 31103
+  },
+  "totals": {
+    "books": 66,
+    "chapters": 1189,
+    "verses": 31103
+  },
+  "books": [
+    {
+      "book_code": "GEN",
+      "book": "创世记",
+      "book_en": "Genesis",
+      "testament": "OT",
+      "chapters": 50,
+      "verses": 1533,
+      "bytes": 519675,
+      "sha256": "64a45be33f59d2702aaea0c2cac6861c0f206821738a4c039753b994553b7591"
+    },
+    {
+      "book_code": "EXO",
+      "book": "出埃及记",
+      "book_en": "Exodus",
+      "testament": "OT",
+      "chapters": 40,
+      "verses": 1213,
+      "bytes": 410219,
+      "sha256": "81b1ec3e79f6b7c4f8415524966b84c22299106b3f9e77fc71d64b9789a44091"
+    },
+    {
+      "book_code": "LEV",
+      "book": "利未记",
+      "book_en": "Leviticus",
+      "testament": "OT",
+      "chapters": 27,
+      "verses": 859,
+      "bytes": 294784,
+      "sha256": "03b5bb415cb82a0195a15944f4a62d4ecf37f095fd0fee025553078a8d153305"
+    },
+    {
+      "book_code": "NUM",
+      "book": "民数记",
+      "book_en": "Numbers",
+      "testament": "OT",
+      "chapters": 36,
+      "verses": 1288,
+      "bytes": 428390,
+      "sha256": "a6e9068780d9ad4da41b899110baa0353496ae15def0ac2c74a84f56f5a4ad2b"
+    },
+    {
+      "book_code": "DEU",
+      "book": "申命记",
+      "book_en": "Deuteronomy",
+      "testament": "OT",
+      "chapters": 34,
+      "verses": 959,
+      "bytes": 350953,
+      "sha256": "225eb105fcb4a3464ff7df44c49fe926b8c8c667634dc9b2b53111d5fa150252"
+    },
+    {
+      "book_code": "JOS",
+      "book": "约书亚记",
+      "book_en": "Joshua",
+      "testament": "OT",
+      "chapters": 24,
+      "verses": 658,
+      "bytes": 246439,
+      "sha256": "6a87245b3e6bd4a50ecc9b651251aa4d49f8855e11997dec1615a9c60a73833f"
+    },
+    {
+      "book_code": "JDG",
+      "book": "士师记",
+      "book_en": "Judges",
+      "testament": "OT",
+      "chapters": 21,
+      "verses": 618,
+      "bytes": 231187,
+      "sha256": "882f2236f4f41269c33f9ad714941764e70771de7c3437142afd61fd8121aec6"
+    },
+    {
+      "book_code": "RUT",
+      "book": "路得记",
+      "book_en": "Ruth",
+      "testament": "OT",
+      "chapters": 4,
+      "verses": 85,
+      "bytes": 31670,
+      "sha256": "48706f19a225526f93ef35e69b76fc340fd560149cc86809fbc9b8d83e611bdb"
+    },
+    {
+      "book_code": "1SA",
+      "book": "撒母耳记上",
+      "book_en": "1 Samuel",
+      "testament": "OT",
+      "chapters": 31,
+      "verses": 810,
+      "bytes": 310807,
+      "sha256": "dafd639a6ea45b94791a78ccfcb78c3ac10c895f8b8ba6e9cccec7b8d9d1957f"
+    },
+    {
+      "book_code": "2SA",
+      "book": "撒母耳记下",
+      "book_en": "2 Samuel",
+      "testament": "OT",
+      "chapters": 24,
+      "verses": 695,
+      "bytes": 260704,
+      "sha256": "36225633f19de697d776ba7d5d7f7f7a2b0ea355b7f3f6a88639dd8cc266c1d5"
+    },
+    {
+      "book_code": "1KI",
+      "book": "列王纪上",
+      "book_en": "1 Kings",
+      "testament": "OT",
+      "chapters": 22,
+      "verses": 816,
+      "bytes": 297636,
+      "sha256": "e1f2d010baadcda4fb51e4ad8bf6924b00616776164a2ade273ccb1fe1413b20"
+    },
+    {
+      "book_code": "2KI",
+      "book": "列王纪下",
+      "book_en": "2 Kings",
+      "testament": "OT",
+      "chapters": 25,
+      "verses": 719,
+      "bytes": 278576,
+      "sha256": "223815f831118e8d1b7738d8727e71c5816cc7160ee4c014902c49d991354cc8"
+    },
+    {
+      "book_code": "1CH",
+      "book": "历代志上",
+      "book_en": "1 Chronicles",
+      "testament": "OT",
+      "chapters": 29,
+      "verses": 942,
+      "bytes": 317857,
+      "sha256": "56a79a6b9f69e3a8f23735b1092a49b54e3bf43fca5f5977ab0221b92427c521"
+    },
+    {
+      "book_code": "2CH",
+      "book": "历代志下",
+      "book_en": "2 Chronicles",
+      "testament": "OT",
+      "chapters": 36,
+      "verses": 822,
+      "bytes": 319783,
+      "sha256": "b8ed046dcfe57e74340e81e46eec2da242ea3ad992caf08dbde8226449fac44b"
+    },
+    {
+      "book_code": "EZR",
+      "book": "以斯拉记",
+      "book_en": "Ezra",
+      "testament": "OT",
+      "chapters": 10,
+      "verses": 280,
+      "bytes": 98112,
+      "sha256": "591c3609bccf8c51d5d41e7cba694fc72bf1ada4a14aa3c08ccab9b96762c26b"
+    },
+    {
+      "book_code": "NEH",
+      "book": "尼希米记",
+      "book_en": "Nehemiah",
+      "testament": "OT",
+      "chapters": 13,
+      "verses": 406,
+      "bytes": 144824,
+      "sha256": "80ce9f1ec889a8b6f97fe909390b5eb1445b882f3c4bdea9c62c42a5b351b74a"
+    },
+    {
+      "book_code": "EST",
+      "book": "以斯帖记",
+      "book_en": "Esther",
+      "testament": "OT",
+      "chapters": 10,
+      "verses": 167,
+      "bytes": 62826,
+      "sha256": "062736d3609bccc6c9bad444e768fc7a9d0450a2c3de8b99641d68f5508039ef"
+    },
+    {
+      "book_code": "JOB",
+      "book": "约伯记",
+      "book_en": "Job",
+      "testament": "OT",
+      "chapters": 42,
+      "verses": 1070,
+      "bytes": 288434,
+      "sha256": "f65fce0ee3db6bad3a7555f69ed40add627ac08c61ffd51d52ed69648e3f63db"
+    },
+    {
+      "book_code": "PSA",
+      "book": "诗篇",
+      "book_en": "Psalms",
+      "testament": "OT",
+      "chapters": 150,
+      "verses": 2461,
+      "bytes": 715392,
+      "sha256": "7f13146934c9a1e0d67e6ed7d5aae0fa479d29c880953592f059a42d92024bcb"
+    },
+    {
+      "book_code": "PRO",
+      "book": "箴言",
+      "book_en": "Proverbs",
+      "testament": "OT",
+      "chapters": 31,
+      "verses": 915,
+      "bytes": 244326,
+      "sha256": "704b396b6923670e484ef851b7441fffd4d265eb1e7b698ca057a8db72596828"
+    },
+    {
+      "book_code": "ECC",
+      "book": "传道书",
+      "book_en": "Ecclesiastes",
+      "testament": "OT",
+      "chapters": 12,
+      "verses": 222,
+      "bytes": 74600,
+      "sha256": "cbf496096781eae0528403cce1bf5b07866452ab5e4fdb20e76acee287ecd953"
+    },
+    {
+      "book_code": "SNG",
+      "book": "雅歌",
+      "book_en": "Song of Solomon",
+      "testament": "OT",
+      "chapters": 8,
+      "verses": 117,
+      "bytes": 41304,
+      "sha256": "7bb7f9540e8fa4da1d7f186454f097dd579216887b21d0958b201f20bf74ad0c"
+    },
+    {
+      "book_code": "ISA",
+      "book": "以赛亚书",
+      "book_en": "Isaiah",
+      "testament": "OT",
+      "chapters": 66,
+      "verses": 1292,
+      "bytes": 484240,
+      "sha256": "65e8888902533f660bfb44f72c6e2bec9e4402198f5e6ea8f0cca7b946aa6f31"
+    },
+    {
+      "book_code": "JER",
+      "book": "耶利米书",
+      "book_en": "Jeremiah",
+      "testament": "OT",
+      "chapters": 52,
+      "verses": 1364,
+      "bytes": 540051,
+      "sha256": "4405dd652be1e02b6c7072ed18edb0a20b7e2d70cdb892db3e99d7fd9bd4faee"
+    },
+    {
+      "book_code": "LAM",
+      "book": "耶利米哀歌",
+      "book_en": "Lamentations",
+      "testament": "OT",
+      "chapters": 5,
+      "verses": 154,
+      "bytes": 51047,
+      "sha256": "694aee93a0af8b9d1661774cb156faaf18d00c5366f8696862a9d13a4dcbe855"
+    },
+    {
+      "book_code": "EZK",
+      "book": "以西结书",
+      "book_en": "Ezekiel",
+      "testament": "OT",
+      "chapters": 48,
+      "verses": 1273,
+      "bytes": 474833,
+      "sha256": "25987abe158ca55fd791c4b78aac19267e074311383a105eef623c6b1cd7da57"
+    },
+    {
+      "book_code": "DAN",
+      "book": "但以理书",
+      "book_en": "Daniel",
+      "testament": "OT",
+      "chapters": 12,
+      "verses": 357,
+      "bytes": 137458,
+      "sha256": "96545df97a152ffcbb979e1444eac6f1fe6a075ad09819f36118d7e12ff2876b"
+    },
+    {
+      "book_code": "HOS",
+      "book": "何西阿书",
+      "book_en": "Hosea",
+      "testament": "OT",
+      "chapters": 14,
+      "verses": 197,
+      "bytes": 72092,
+      "sha256": "eb6d04a4209c90a7dc02895151e8a7954373899aaa2e4ee8b748b2e71471d9a2"
+    },
+    {
+      "book_code": "JOL",
+      "book": "约珥书",
+      "book_en": "Joel",
+      "testament": "OT",
+      "chapters": 3,
+      "verses": 73,
+      "bytes": 25687,
+      "sha256": "2a73ce53e63193c2b3e01d43fe9fe3efc7b908bc2c695d105aef3d274b781c53"
+    },
+    {
+      "book_code": "AMO",
+      "book": "阿摩司书",
+      "book_en": "Amos",
+      "testament": "OT",
+      "chapters": 9,
+      "verses": 146,
+      "bytes": 53125,
+      "sha256": "6a59762664adb31d9a4cb174191a01d8be48a00fb66fa80b79eb801cf4859562"
+    },
+    {
+      "book_code": "OBA",
+      "book": "俄巴底亚书",
+      "book_en": "Obadiah",
+      "testament": "OT",
+      "chapters": 1,
+      "verses": 21,
+      "bytes": 8010,
+      "sha256": "3cd2fe67ddc648e23dcb60e39c9a9b882c5023d8c886da761cb58e47bffab0ea"
+    },
+    {
+      "book_code": "JON",
+      "book": "约拿书",
+      "book_en": "Jonah",
+      "testament": "OT",
+      "chapters": 4,
+      "verses": 48,
+      "bytes": 16518,
+      "sha256": "8245b616239c0ffbf68194dcecce0566b13da570de7178186514f377f6e8004d"
+    },
+    {
+      "book_code": "MIC",
+      "book": "弥迦书",
+      "book_en": "Micah",
+      "testament": "OT",
+      "chapters": 7,
+      "verses": 105,
+      "bytes": 40116,
+      "sha256": "6ca06f74be2376ca3b9306cf86a44f3ee48588bdb46d80d90aa4c4606a6e4a40"
+    },
+    {
+      "book_code": "NAM",
+      "book": "那鸿书",
+      "book_en": "Nahum",
+      "testament": "OT",
+      "chapters": 3,
+      "verses": 47,
+      "bytes": 16684,
+      "sha256": "0a578bc07365b724029d8426b34eeb721501ef135956934bd1d2c7afbd735b79"
+    },
+    {
+      "book_code": "HAB",
+      "book": "哈巴谷书",
+      "book_en": "Habakkuk",
+      "testament": "OT",
+      "chapters": 3,
+      "verses": 56,
+      "bytes": 19705,
+      "sha256": "d723eba01df661e917a9486c25d64d8ab95c0fe211bc112482752e942d9d36ab"
+    },
+    {
+      "book_code": "ZEP",
+      "book": "西番雅书",
+      "book_en": "Zephaniah",
+      "testament": "OT",
+      "chapters": 3,
+      "verses": 53,
+      "bytes": 20829,
+      "sha256": "64a6e11be49782e682c3afc8fd118893202a4367169d4f3c0bf039203ed6400b"
+    },
+    {
+      "book_code": "HAG",
+      "book": "哈该书",
+      "book_en": "Haggai",
+      "testament": "OT",
+      "chapters": 2,
+      "verses": 38,
+      "bytes": 14064,
+      "sha256": "a9c60abc9d2f5fddc7140dabaf3237a8bcec9708d6d15f412be6c45f944bad03"
+    },
+    {
+      "book_code": "ZEC",
+      "book": "撒迦利亚书",
+      "book_en": "Zechariah",
+      "testament": "OT",
+      "chapters": 14,
+      "verses": 211,
+      "bytes": 80008,
+      "sha256": "8b54424f8518445d1c3703366d6b2a5ce687a420c67bfc709d1a6be3f97e6262"
+    },
+    {
+      "book_code": "MAL",
+      "book": "玛拉基书",
+      "book_en": "Malachi",
+      "testament": "OT",
+      "chapters": 4,
+      "verses": 55,
+      "bytes": 23545,
+      "sha256": "e65f131c5f92a204bd133744773e8e23dee7aa05e57aefd4a52cc36492625f2f"
+    },
+    {
+      "book_code": "MAT",
+      "book": "马太福音",
+      "book_en": "Matthew",
+      "testament": "NT",
+      "chapters": 28,
+      "verses": 1071,
+      "bytes": 347754,
+      "sha256": "644f5531211f7425fb4aa3a23ebe9f47cc685d14c9577cf70601690568959329"
+    },
+    {
+      "book_code": "MAR",
+      "book": "马可福音",
+      "book_en": "Mark",
+      "testament": "NT",
+      "chapters": 16,
+      "verses": 678,
+      "bytes": 216473,
+      "sha256": "5018005085191290fc1cc7f2b7e88c50ea8411a563939a9eb11b78c5c59d158e"
+    },
+    {
+      "book_code": "LUK",
+      "book": "路加福音",
+      "book_en": "Luke",
+      "testament": "NT",
+      "chapters": 24,
+      "verses": 1151,
+      "bytes": 372142,
+      "sha256": "7874b95098d3678338972b0e35f1a8b96b9fbdd0533e960c3a981404fceeecf5"
+    },
+    {
+      "book_code": "JHN",
+      "book": "约翰福音",
+      "book_en": "John",
+      "testament": "NT",
+      "chapters": 21,
+      "verses": 879,
+      "bytes": 285548,
+      "sha256": "a2f80f1b66364e8aa3d4cc1599e54ac6383c470f1362b6867d217b10b744908d"
+    },
+    {
+      "book_code": "ACT",
+      "book": "使徒行传",
+      "book_en": "Acts",
+      "testament": "NT",
+      "chapters": 28,
+      "verses": 1007,
+      "bytes": 340050,
+      "sha256": "50bc2335d71b87cca54e38e39eacd5591002e7874d7149f4d9fdd702abb5b8b7"
+    },
+    {
+      "book_code": "ROM",
+      "book": "罗马书",
+      "book_en": "Romans",
+      "testament": "NT",
+      "chapters": 16,
+      "verses": 433,
+      "bytes": 143967,
+      "sha256": "dbb64fb05af6dc4ec8e38326a96dd56d9e4ab0cb0f0ab590dd6790fc3998227e"
+    },
+    {
+      "book_code": "1CO",
+      "book": "哥林多前书",
+      "book_en": "1 Corinthians",
+      "testament": "NT",
+      "chapters": 16,
+      "verses": 437,
+      "bytes": 149920,
+      "sha256": "1d60fbdfd7c210fcc1266c77a7423acc98921527947c95996cd1f8d48a3c8097"
+    },
+    {
+      "book_code": "2CO",
+      "book": "哥林多后书",
+      "book_en": "2 Corinthians",
+      "testament": "NT",
+      "chapters": 13,
+      "verses": 257,
+      "bytes": 93556,
+      "sha256": "9022b148c0043e58c7b15b9c9fa4d1befa8db5d9c6e35f3d1b4dd25c781a84d6"
+    },
+    {
+      "book_code": "GAL",
+      "book": "加拉太书",
+      "book_en": "Galatians",
+      "testament": "NT",
+      "chapters": 6,
+      "verses": 149,
+      "bytes": 49848,
+      "sha256": "c3f1a9ff84f0be1798ff5a24041c288294eebbec8a8f6c056b5b63efa5a8b1dc"
+    },
+    {
+      "book_code": "EPH",
+      "book": "以弗所书",
+      "book_en": "Ephesians",
+      "testament": "NT",
+      "chapters": 6,
+      "verses": 155,
+      "bytes": 49386,
+      "sha256": "25d64fedfd4cc4353143dc0c10db121e6862aa62f3abcd94a4a545b10b5e95f2"
+    },
+    {
+      "book_code": "PHP",
+      "book": "腓立比书",
+      "book_en": "Philippians",
+      "testament": "NT",
+      "chapters": 4,
+      "verses": 104,
+      "bytes": 35314,
+      "sha256": "56bdf8af34d032d46f6bc864c9e68daeb9f9e5e49a66aac678c8c4e946844d11"
+    },
+    {
+      "book_code": "COL",
+      "book": "歌罗西书",
+      "book_en": "Colossians",
+      "testament": "NT",
+      "chapters": 4,
+      "verses": 95,
+      "bytes": 33395,
+      "sha256": "b582754031be123e2f389095a36d9ef644fdd8699c7d4280d916d7aa7c252f41"
+    },
+    {
+      "book_code": "1TH",
+      "book": "帖撒罗尼迦前书",
+      "book_en": "1 Thessalonians",
+      "testament": "NT",
+      "chapters": 5,
+      "verses": 89,
+      "bytes": 31638,
+      "sha256": "0545260ef4b73b382f3a944bc411b212e71e44a6f8270d8ae79001a5728a5a9b"
+    },
+    {
+      "book_code": "2TH",
+      "book": "帖撒罗尼迦后书",
+      "book_en": "2 Thessalonians",
+      "testament": "NT",
+      "chapters": 3,
+      "verses": 47,
+      "bytes": 17004,
+      "sha256": "5bd7d7d8da88e509c23f4acc3c1fdd45c84379ab4eaff0ef6ce200b61e05dee1"
+    },
+    {
+      "book_code": "1TI",
+      "book": "提摩太前书",
+      "book_en": "1 Timothy",
+      "testament": "NT",
+      "chapters": 6,
+      "verses": 113,
+      "bytes": 37773,
+      "sha256": "02b2d8b418e2b8c9f3db70ffd8ec280d0260afb90527cf62b71d6425498c8a55"
+    },
+    {
+      "book_code": "2TI",
+      "book": "提摩太后书",
+      "book_en": "2 Timothy",
+      "testament": "NT",
+      "chapters": 4,
+      "verses": 83,
+      "bytes": 27843,
+      "sha256": "bbf130fc972fb4aeec617efb685731639bb2819bc5004bd3331586c47dd0af1b"
+    },
+    {
+      "book_code": "TIT",
+      "book": "提多书",
+      "book_en": "Titus",
+      "testament": "NT",
+      "chapters": 3,
+      "verses": 46,
+      "bytes": 15365,
+      "sha256": "3e78a350ac702d3691a4dc80f0a13e7a3e399796a5ae47d1198a040bff0d3fd5"
+    },
+    {
+      "book_code": "PHM",
+      "book": "腓利门书",
+      "book_en": "Philemon",
+      "testament": "NT",
+      "chapters": 1,
+      "verses": 25,
+      "bytes": 7814,
+      "sha256": "821bc1b3e082200bdf225d4420bc852a4e420002ad31ae62dec2cbf3ad1810bc"
+    },
+    {
+      "book_code": "HEB",
+      "book": "希伯来书",
+      "book_en": "Hebrews",
+      "testament": "NT",
+      "chapters": 13,
+      "verses": 303,
+      "bytes": 104374,
+      "sha256": "aebdf4f269a90c8614d6b7d2a7ae8760b625fcae46c760d75a2d65e39e41286f"
+    },
+    {
+      "book_code": "JAS",
+      "book": "雅各书",
+      "book_en": "James",
+      "testament": "NT",
+      "chapters": 5,
+      "verses": 108,
+      "bytes": 35715,
+      "sha256": "0d9f54616c253dcc68d2f35b7703ee6fc4b1d1ce21916b53d1faa9f50bb584dc"
+    },
+    {
+      "book_code": "1PE",
+      "book": "彼得前书",
+      "book_en": "1 Peter",
+      "testament": "NT",
+      "chapters": 5,
+      "verses": 105,
+      "bytes": 37821,
+      "sha256": "74af98ce0209fc656d32167e330d15745c75abee588ca1b11198016192982574"
+    },
+    {
+      "book_code": "2PE",
+      "book": "彼得后书",
+      "book_en": "2 Peter",
+      "testament": "NT",
+      "chapters": 3,
+      "verses": 61,
+      "bytes": 22573,
+      "sha256": "741d899fa886587214f25627a90d7f8a74961a4c56be0b6c027f2f728b39d3a0"
+    },
+    {
+      "book_code": "1JN",
+      "book": "约翰一书",
+      "book_en": "1 John",
+      "testament": "NT",
+      "chapters": 5,
+      "verses": 105,
+      "bytes": 36966,
+      "sha256": "ff0f07b50da21906c0837d11d94d5c558c2614466980d5f772bf51180a4893a9"
+    },
+    {
+      "book_code": "2JN",
+      "book": "约翰二书",
+      "book_en": "2 John",
+      "testament": "NT",
+      "chapters": 1,
+      "verses": 13,
+      "bytes": 4572,
+      "sha256": "37f339a643b5387ed604f7fd53065489ea79ce120efe75436a059da173bfe8b1"
+    },
+    {
+      "book_code": "3JN",
+      "book": "约翰三书",
+      "book_en": "3 John",
+      "testament": "NT",
+      "chapters": 1,
+      "verses": 15,
+      "bytes": 4950,
+      "sha256": "7329a2ced99cc7988e121de5b0dbdfcc8ad97626ddfb4e91b3de5d020a152497"
+    },
+    {
+      "book_code": "JUD",
+      "book": "犹大书",
+      "book_en": "Jude",
+      "testament": "NT",
+      "chapters": 1,
+      "verses": 25,
+      "bytes": 9493,
+      "sha256": "bc91bf99fa8e49b66f82c7f5b6f9b4b256db1c57eb618ead2ba2ae805131b1fb"
+    },
+    {
+      "book_code": "REV",
+      "book": "启示录",
+      "book_en": "Revelation",
+      "testament": "NT",
+      "chapters": 22,
+      "verses": 404,
+      "bytes": 150317,
+      "sha256": "e8424fb5a0694993fed2c4f6ec5f9e81c49eb3e18942bab670b751d87daa8127"
+    }
+  ],
+  "licenses": {
+    "data": "CC BY 4.0",
+    "scripts": "MIT"
+  }
+}

@@ -26,7 +26,7 @@
 | 字段 | 说明 |
 |---|---|
 | `book` | 中文书名（简体，如「创世记」） |
-| `book_en` | 英文書名（如 `Genesis`） |
+| `book_en` | 英文书名（如 `Genesis`） |
 | `book_code` | 通行三字母码（`GEN`／`EXO`／…／`REV`） |
 | `testament` | `OT` 或 `NT` |
 | `chapter` / `verse` | 章、节（整数） |
